@@ -1,1 +1,2 @@
-# COMP 3331 Assignment 2
+# Paint.
+Just a really simple version of paint using JS and CSS and HTML.
